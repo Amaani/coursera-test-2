@@ -1,0 +1,30 @@
+body{
+	background-color: maroon
+}
+
+h1{
+	margin:20px;
+}
+
+.tall{
+	min-height: 1000px
+}
+
+.card{
+	width: 80vw;
+	min-width:100px;
+}
+
+.nav-item{
+	text-align: center;
+}
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
+.card-title{
+	text-align: center
+}
